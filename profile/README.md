@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://sncfoundation.github.io/logos/sncf-512.png" width="120" alt="SNCF logo">
+
 # 💩 Sheet-Native Computing Foundation
 
 **A new word in infrastructure.**
